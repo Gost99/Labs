@@ -1,0 +1,12 @@
+E:\STUDY HARD\2 Семестр\Прога\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\STUDY HARD\2 Семестр\Прога\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\STUDY HARD\2 Семестр\Прога\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\STUDY HARD\2 Семестр\Прога\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\STUDY HARD\2 Семестр\Прога\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\STUDY HARD\2 Семестр\Прога\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\STUDY HARD\2 Семестр\Прога\Laba1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\STUDY HARD\2 Семестр\Прога\Laba1\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\STUDY HARD\2 Семестр\Прога\Laba1\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\STUDY HARD\2 Семестр\Прога\Laba1\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\STUDY HARD\2 Семестр\Прога\Laba1\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\STUDY HARD\2 Семестр\Прога\Laba1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
