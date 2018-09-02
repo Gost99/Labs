@@ -1,0 +1,6 @@
+E:\STUDY HARD\2 Семестр\Прога\Laba2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\STUDY HARD\2 Семестр\Прога\Laba2\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\STUDY HARD\2 Семестр\Прога\Laba2\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\STUDY HARD\2 Семестр\Прога\Laba2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+E:\STUDY HARD\2 Семестр\Прога\Laba2\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\STUDY HARD\2 Семестр\Прога\Laba2\Lab2\Lab2\obj\Debug\Lab2.pdb
