@@ -1,0 +1,13 @@
+E:\STUDY HARD\2 Семестр\Прога\Laba8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+E:\STUDY HARD\2 Семестр\Прога\Laba8\Lab8\Lab8\bin\Debug\Lab8.exe
+E:\STUDY HARD\2 Семестр\Прога\Laba8\Lab8\Lab8\bin\Debug\Lab8.pdb
+E:\STUDY HARD\2 Семестр\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+E:\STUDY HARD\2 Семестр\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.exe
+E:\STUDY HARD\2 Семестр\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\STUDY HARD\2 Семестр (Done)\Прога\Laba8\Lab8\Lab8\obj\Debug\Lab8.pdb
